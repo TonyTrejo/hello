@@ -1,0 +1,24 @@
+.jumbotron {
+    background-color:white;
+}
+
+.display-3 {
+    text-align: center;
+}
+.col-9 {
+    text-align: left;
+}
+
+.row {
+    background-color:white;
+    justify-content: center;
+    padding: 3ex;
+}
+   
+
+img {
+    max-inline-size: 90%;
+}
+.icon {
+    box-sizing: content-box;
+}

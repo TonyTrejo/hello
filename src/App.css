@@ -1,0 +1,10 @@
+body {
+    margin: 1;
+    font-family: arial , helvetica, sans-serif;
+    background-color:gray;
+    color: black;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+    padding: 2em;
+}
